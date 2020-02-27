@@ -1,0 +1,44 @@
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\Data.dll.config
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\Data.dll
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\Data.pdb
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\obj\Debug\Data.dll
+C:\Users\danai\Documents\Projects\orgvacationmanager\OrgVacationManager\Data\obj\Debug\Data.pdb
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\Data.dll.config
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\Data.dll
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\Data.pdb
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\obj\Debug\Data.dll
+C:\Users\danai\Desktop\orgvacationmanager-master\OrgVacationManager\Data\obj\Debug\Data.pdb
+C:\Users\danai\Desktop\OrgVacationManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\danai\Desktop\OrgVacationManager\Data\obj\Debug\Data.dll
+C:\Users\danai\Desktop\OrgVacationManager\Data\obj\Debug\Data.pdb
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\Data.dll.config
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\Data.dll
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\Data.pdb
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\danai\Desktop\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danai\Desktop\OrgVacationManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\Data.dll.config
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\Data.dll
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\Data.pdb
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\EntityFramework.dll
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\EntityFramework.xml
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\obj\Debug\Data.dll
+C:\Users\yoana\Desktop\C#\Материали\Трета година\3.4 Software\02-working-with-legacy-code\OrgVacationManager\Data\obj\Debug\Data.pdb
